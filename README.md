@@ -1,6 +1,7 @@
 # Home-Lab
 Within a virtual environment, I have configured a Windows 2019 Active Directory Domain Controller server. On this server, I utilized Bad Blood from secframe to simulate an organizational environment of 2500 users, 500 groups, and 100 computers with random security misconfigurations. The main task is to create a more secure environment using a plan laid out by sec frame here (https://secframe.com/docs/ramp/what_is_redforest/).
 
+
 ![1709182290328](https://github.com/user-attachments/assets/875d9f4a-bf45-4df3-b97c-234105cdfc01)
 
 
